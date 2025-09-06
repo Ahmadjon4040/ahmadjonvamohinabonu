@@ -1,0 +1,133 @@
+body {
+    background: #fff2ae;
+}
+.firsttxt { 
+    font-family: Adventure;
+    text-align: center;
+    font-size: 400%;
+}
+.Ahmadjon {
+    margin-top: 5%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 600%;
+}
+.va {
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 550%;
+}
+.Mohinabonu {
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 600%;
+}
+.hurmat {
+    margin-top: 10%;
+    font-size: 400%;
+    text-align: center;
+    font-family: Ariston;
+
+}
+.box {
+    margin-top: 10%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 250px;
+    border: 20px solid #f7cb65;
+}
+.Ahmadjon2 {
+    margin-top: 2%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 550%;
+}
+.va2 {
+    margin-top: 2%;
+    margin-left: 2%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 500%;
+}
+.Mohinabonu2 {
+    margin-top: 2%;
+    margin-left: 2%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 550%;
+}
+.hurmat2 {
+    margin-top: 10%;
+    font-size: 400%;
+    text-align: center;
+    font-family: Ariston;
+}
+.kunii {
+    margin-top: 10%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 500%;
+}
+.kuni {
+    margin-top: 2%;
+    font-family: Adventure;
+    text-align: center;
+    font-size: 400%;
+}
+.kuuni {
+    margin-top: 2%;
+    font-family: Adventure;
+    text-align: center;
+    font-size: 500%;
+}
+.vaqtii {
+    margin-top: 10%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 500%;
+}
+.vaqti {
+    margin-top: 2%;
+    font-family: Ariston;
+    text-align: center;
+    font-size: 600%;
+}
+.manziil {
+    margin-top: 10%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 500%;
+}
+.manzil {
+    margin-top: 2%;
+    font-family: Adventure;
+    text-align: center;
+    font-size: 500%;
+}
+.locationn {
+    margin-top: 10%;
+    font-family: DeVinne Txt BT;
+    text-align: center;
+    font-size: 500%;
+}
+.locationnn {
+    margin-top: 2%;
+    font-family: Adventura;
+    text-align: center;
+    font-size: 500%;
+}
+.lokatssiya {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.karta {
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
